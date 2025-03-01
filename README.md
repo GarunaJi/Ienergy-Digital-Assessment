@@ -13,11 +13,7 @@ This is a **responsive movie listing website** built with **React.js**, demonstr
 
 ---
 
-## 🔗 Live Demo (Optional)
 
-[Hosted Link (if deployed)](https://your-deployment-url.com)
-
----
 
 ## 📚 Features
 
@@ -48,38 +44,16 @@ This is a **responsive movie listing website** built with **React.js**, demonstr
 
 ## 🛠️ Tech Stack
 
-| Technology        | Description                                                                                   |
-|-------------------|-----------------------------------------------------------------------------------------------|
-| React.js           | Core library for UI development.                                                             |
-| React Router       | For page navigation and routing.                                                             |
-| Material-UI        | For UI components like Cards, Typography, and Grid.                                          |
-| Context API        | For global state management (like search query state).                                       |
-| OMDb API           | Movie data source.                                                                           |
-| Lodash             | For implementing search **debounce**.                                                         |
-| CSS/SCSS           | For custom styles.                                                                           |
+| Technology        | Description                                                                          
+
+| React.js                                                                       |
+| React Router                                                       |
+| Material-UI                                                  |
+| Context API        .                                   
+| OMDb API                                                         
+| CSS/SCSS           |                                                                 |
 
 ---
 
-## 📡 API Details
 
-Base URL: [https://www.omdbapi.com/](https://www.omdbapi.com/)  
-API Key: `b9bd48a6` (Use your own key if needed)
-
-### Example Endpoints:
-- Search movies:  
-    ```
-    https://www.omdbapi.com/?apikey=b9bd48a6&s=marvel
-    ```
-- Pagination (page 2 example):  
-    ```
-    https://www.omdbapi.com/?apikey=b9bd48a6&s=marvel&page=2
-    ```
-- Get movie details:  
-    ```
-    https://www.omdbapi.com/?apikey=b9bd48a6&i=tt3896198
-    ```
-
----
-
-## 🏗️ Project Structure
 
